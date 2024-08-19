@@ -1,0 +1,24 @@
+{
+  "name": "not-free-for-ai",
+  "version": "1.0.0",
+  "description": "Not-free-for-ai is a protocol that protects website content from unauthorized access by AI tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanPilotHQ/not-free-by-ai.git"
+  },
+  "keywords": [
+    "AI",
+    "content",
+    "protection"
+  ],
+  "author": "HumanPilotHQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HumanPilotHQ/not-free-by-ai/issues"
+  },
+  "homepage": "https://github.com/HumanPilotHQ/not-free-by-ai#readme"
+}
